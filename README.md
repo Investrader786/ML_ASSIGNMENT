@@ -90,7 +90,7 @@ The test rows are saved as [`test_data.csv`](test_data.csv) (21 feature columns 
 
 ## c. GitHub Repository Link
 
-**<https://github.com/Investrader786/actg175-aids-event-prediction>**
+**<https://github.com/Investrader786/ML_ASSIGNMENT>**
 
 ## d. Models Used
 
