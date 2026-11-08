@@ -138,7 +138,7 @@ All values are rounded to 4 decimals. Uploading `test_data.csv` to the app repro
 ---
 ## Live Streamlit App
 
-**<https://actg175-outcome-evaluator-mani.streamlit.app>**
+**<https://mlassignmentmanirathinam2026aj05440.streamlit.app/>**
 
 The app has three tabs:
 
